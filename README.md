@@ -39,7 +39,7 @@ Our analysis leads to these three recommendations:
 
 # For More Information:
 
-See the full data analysis in our [Jupyter Notebook](/Phase1_Final.ipynb) or view our presentation.
+See the full data analysis in our [Jupyter Notebook](/Phase1_Final.ipynb) or view our [presentation](https://docs.google.com/presentation/d/1IjlLXQB6L_gvFPX3tfUa3VnF8dQLJbBZPuH0VmO67EA/edit?usp=sharing).
 
 # Repository Structure:
 
