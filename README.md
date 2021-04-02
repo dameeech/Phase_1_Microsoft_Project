@@ -39,7 +39,7 @@ Our analysis leads to these three recommendations:
 
 # For More Information:
 
-See the full data analysis in our [Jupyter Notebook](/Phase1_Final.ipynb) or view our [presentation](https://docs.google.com/presentation/d/1IjlLXQB6L_gvFPX3tfUa3VnF8dQLJbBZPuH0VmO67EA/edit?usp=sharing).
+See the full data analysis in our [Jupyter Notebook](/Phase1_Final.ipynb) or view our [presentation](/Phase1_Presentation_Microsoft_Films.pdf).
 
 # Repository Structure:
 
@@ -47,4 +47,5 @@ See the full data analysis in our [Jupyter Notebook](/Phase1_Final.ipynb) or vie
 * Images: Contains images used in our presentation. 
 * Zipped Data: Contains zipped databases used in analysis.
 * Phase1_final.ipynb: Final jupyter notebook with analysis and visualizations.
+* Phase1_Presentation_Microsoft_Films.pdf: Final presentation slides.
 * README.md: This file, synopsis of full project.
